@@ -2,13 +2,12 @@
 Repository for Rule Crawler releases.
 ## Description 
 Rule Crawler allows you to browse Rule34 content without the need to tolerate any disadvantages that come with web browsers.
-## Features 
-- Search by tags
+## Some of main features 
+- Searching by tags
 - Blacklist
-- Zoom in/out
-- Search history back navigation
-- Multiple app themes. Dark mode included
-- Images selection and download
+- Navigation history
+- Multiple app themes (including dark mode)
+- Select multiple images and download them all
 - Different grid sizes
 - and more
 ## Appearance
